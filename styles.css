@@ -29,7 +29,7 @@ body {
     width: 15%;
     height: 15%;
     background-color:#CCD5AE;
-    padding:5px;
+    padding:5px 5px 5px 5px;
 }
 
 
@@ -75,8 +75,8 @@ h1{
 }
 
 h3{
-    background-color : black;
-    color : #1A5F7A;
+    background-color : #245953;
+    color : #E49393;
     padding : 20px 30px;
     vertical-align: middle;
     font-family: "Lucida Console", "Courier New", monospace;
@@ -84,4 +84,11 @@ h3{
 h2{
     vertical-align: middle;
     padding : 20px 30px;
+}
+
+edu.card {
+    width:100%;
+    box-shadow: 2px 2px 8px 2px;
+    background-color:#CCD5AE;
+    padding-bottom:100px
 }
